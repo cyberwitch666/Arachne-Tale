@@ -1,3 +1,5 @@
+//Arduino Code that will be sent to p5.js using Serial Control
+
 int REED_PIN1 = 12;
 int REED_PIN2 = 11;
 int REED_PIN3 = 10;
