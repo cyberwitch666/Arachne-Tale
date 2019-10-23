@@ -1,3 +1,7 @@
+// Use this code to test if reed switches work before moving forward to programming with them
+
+//Digital input pins
+
 int REED_PIN1 = 12;
 int REED_PIN2 = 11;
 int REED_PIN3 = 10;
